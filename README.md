@@ -22,26 +22,7 @@ Automatic Ticket Closure:
 If users purchase a ticket, the ticket screen automatically closes after 3 hours.
 
 Route Details
-Sr no	Route	Rs
-1	Madhapar Chowk	0
-2	Ayodhya Chowk	2
-3	Sheetal Park	4
-4	Ramapir Chowkdi	6
-5	Nanavati Chowk	8
-6	Raiya Circle	10
-7	Raiya Telephone Exchange	12
-8	Indira Circle	14
-9	KKV Chowk	16
-10	West Zone Office	18
-11	Nana Mouva Chowk	20
-12	Mahapuja Dham Chowk	22
-13	Om nagar	24
-14	Mavdi	26
-15	Umiya Chowk	28
-16	Ambedkar Chowk	30
-17	Govardhan Chowk	32
-18	Puneet Nagar	34
-19	Gondal Chowkdi	36
+
 ![image](https://github.com/ChandniBhadarka/E-Bus-Travelmate/assets/92981317/edcd22bc-48bb-4529-af12-c9e69f9a2746)
 
 
